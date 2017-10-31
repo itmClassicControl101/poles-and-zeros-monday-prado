@@ -1,0 +1,7 @@
+LC circuit for space-states:
+V1	Vin		GND	pulse	(0v,5V,0s,1ns,1ns,1ms,2ms)
+L1	Vin		Vout	10uH
+C1	Vout	GND	10uF
+RL	Vout	GND	0.1
+.tran	100us	4ms
+.end
