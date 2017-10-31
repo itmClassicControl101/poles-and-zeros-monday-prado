@@ -1,0 +1,8 @@
+LC circuit for space-states:
+V1	1		0 pulse	(0v,5V,0s,1ns,1ns,1ms,2ms)
+L1	1		2	10uH
+C1	2   0	10uF
+RL	2	  0	0.1
+.tran	100us	4ms
+.probe
+.end
