@@ -1,0 +1,37 @@
+Check list for laboratory reports - session 2.
+
+Formato y forma:
+- [ ] Ortografía: Mala 
+- [ ] Redacción: Mala
+- [ ] Plagio: https://www.quizover.com/online/course/14-5-polos-y-ceros-transformada-de-laplace-y-diseno-de-sistemas-by-ope
+- [ ] Imágenes, Tablas, Referencias y Ecuaciones: Las imágenes, tablas y ecuciones(a mano) se ven mal
+
+Contenido:
+- [ ] Introducción
+- [ ] Metodología
+    - [x] Fuerza bruta RL
+    - [ ] Función de transferencia RL por inspección
+- [ ] Desarrollo
+    - [x] Circuito RC/RL respuesta transitoria (Tau): No
+    - [x] Circuito  RC/RL respuesta en frecuencia (Bode): No
+- [ ] Simulación
+    - [ ] Matlab/Scilab step response
+    - [ ] LTI Spice simulación
+- [ ] Resultados 
+    - [ ] Comparación de resultados teórico-prácticos (transitorios)
+    - [ ] Comparación de resultados teórico-prácticos (Bode)
+- [ ] Conclusiones
+    - [x] Individuales
+    - [ ] Técnicas
+    - [ ] Interesantes y reflexivas
+
+Repositorio:
+- [ ] Carpetas
+- [ ] Código Scilab/Matlab
+- [ ] Código Spice
+- [x] Código de Latex
+- [x] Reporte en PDF
+- [x] Entregado en tiempo
+
+
+Grade 62
